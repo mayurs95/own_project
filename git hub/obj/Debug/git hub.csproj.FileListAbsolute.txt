@@ -1,0 +1,7 @@
+D:\own_project\git hub\git hub\bin\Debug\git hub.exe.config
+D:\own_project\git hub\git hub\bin\Debug\git hub.exe
+D:\own_project\git hub\git hub\bin\Debug\git hub.pdb
+D:\own_project\git hub\git hub\obj\Debug\git hub.csproj.AssemblyReference.cache
+D:\own_project\git hub\git hub\obj\Debug\git hub.csproj.CoreCompileInputs.cache
+D:\own_project\git hub\git hub\obj\Debug\git hub.exe
+D:\own_project\git hub\git hub\obj\Debug\git hub.pdb
